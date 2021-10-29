@@ -6,8 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
 ![Ventura GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoventura123&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoventura123)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tenologias que uso no meu dia a dia
@@ -23,4 +22,4 @@
 </div><br/><br/>
 
 
-"Programar é mais que uma profissão, é se divertir de modo 'sério'" - Bruno Ventura
+
